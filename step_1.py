@@ -19,3 +19,6 @@ else:
     print('Error! 404')
     print('Boot problem А671Е54')
 print(gh, dir(gh))
+print('Это все Шутка!')
+print('Это все Шутка!'.upper())
+print('Это все Шутка!'.lower())
